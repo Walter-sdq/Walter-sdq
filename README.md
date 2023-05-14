@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on anything.
 
-- 🤔 I’m looking for help with backend
+- 🤔 I’m looking for help with current idea
 
 - 💬 Ask me about my projects
 
