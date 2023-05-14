@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+I am Walter, I am a *Website developer*.
+
+- ⌨️ An aspiring full stack Developer
+- 🧾 Front-end Developer
+- 🤸 Likes to learn
+- ⚙️ Loves problem solving
 - 🔭 I’m currently working on My portfolio
 
 - 🌱 I’m currently learning JavaScript and react JS.
@@ -9,7 +16,7 @@
 
 - 💬 Ask me about my projects
 
-- 📫 How to reach me: akhigbeabdulwahab354@gmail.com
+- 📫 How to reach me: https://wa.me/message/LFX3G4FDMSCUE1
 
 
 <!--
