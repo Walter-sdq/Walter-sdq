@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Walter, I am a *Website developer*.
+I am Walter, I am a *<b>Web</b>site <b>developer</b>*.
 
 - ⌨️ An aspiring full stack Developer
 - 🧾 Front-end Developer
