@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Walter.+;I+want+to+be+a+developer+that+solves+;real+world+problems+with+codes.)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 I am Walter, I am a *<b>Web</b>site <b>developer</b>*.
