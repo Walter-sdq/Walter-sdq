@@ -28,7 +28,6 @@ I am Walter, I am a *<b>Web</b>site <b>developer</b>*.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-sdq&show_icons=true&theme=dark&hide_border=true&locale=en" alt="walter-sdq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walter-sdq&" alt="walter-sdq" /></p>
 
 
 <!--
