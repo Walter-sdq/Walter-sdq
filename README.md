@@ -1,23 +1,22 @@
-###<h1> Hi there <span><img width="50px" src="https://camo.githubusercontent.com/1fb942c7e0299fd30f5b17feeec509410a1761df9ce838486c872fc2c1276818/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3333372f776176696e672d68616e645f31663434622e706e67"/></span> </h1> 
+<h1> Hi there <span><img width="50px" src="https://camo.githubusercontent.com/1fb942c7e0299fd30f5b17feeec509410a1761df9ce838486c872fc2c1276818/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6d6963726f736f66742d7465616d732f3333372f776176696e672d68616e645f31663434622e706e67"/></span> </h1> 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=E9F7E7&pause=1000&width=435&lines=I+am+Walter.+;I+want+to+be+a+developer+that+solves+;real+world+problems+;with+codes.)](https://git.io/typing-svg) 
 </b>*.
 
-- ⌨️ An aspiring full stack Developer
-- 🧾 Front-end Developer
-- 🤸 Likes to learn
-- ⚙️ Loves problem solving
-- 🔭 I’m currently working on My portfolio
+- ⌨️ A **full stack Developer**
+- 🤸 Likes to **learn** and also a fast learner
+- ⚙️ Loves **problem solving**
+- 🔭 I’m currently working on **An Offline File transfare tool**.
 
-- 🌱 I’m currently learning JavaScript and react JS.
+- 🌱 I’m currently **Improving my backend skill**.
 
-- 👯 I’m looking to collaborate on anything.
+- 👯 I’m looking to **collaborate**.
 
-- 🤔 I’m looking for help with current idea
+- 🤔 I’m looking for **collaboration with current ideas**
 
-- 💬 Ask me about my projects
+- 💬 Ask me about **my projects**
 
-- 📫 How to reach me: https://wa.me/message/LFX3G4FDMSCUE1
+- 📫 How to reach me: **<a href="https://wa.me/message/LFX3G4FDMSCUE1">Whatsapp</a>**;  Or Mail **akhigbeabdulwahab354@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
