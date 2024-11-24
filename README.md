@@ -30,8 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-sdq&show_icons=true&theme=dark&hide_border=true&locale=en" alt="walter-sdq" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walter-sdq&" alt="walter-sdq" /></p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=walter-sdq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walter-sdq" alt="walter-sdq" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walter-sdq&label=Profile%20views&color=0e75b6&gap=5px&style=flat" alt="walter-sdq" /> </p>
 
 
 <!--
