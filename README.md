@@ -30,7 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-sdq&show_icons=true&theme=dark&hide_border=true&locale=en" alt="walter-sdq" /></p>
 
-
+<div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=walter-sdq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <!--
 **Walter-sdq/Walter-sdq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
