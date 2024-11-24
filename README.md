@@ -30,7 +30,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walter-sdq&show_icons=true&theme=dark&hide_border=true&locale=en" alt="walter-sdq" /></p>
 
+<h1>
+⚡️ Streak
+</h1>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walter-sdq&" alt="walter-sdq" /></p>
+
+<h1>
+🏆 Trophies
+</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walter-sdq" alt="walter-sdq" /></a> </p>
 
